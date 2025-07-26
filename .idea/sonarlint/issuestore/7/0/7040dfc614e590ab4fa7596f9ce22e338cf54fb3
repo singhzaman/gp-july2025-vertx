@@ -1,0 +1,19 @@
+
+s
+java:S11928"QDefine a constant instead of duplicating this literal "application/json" 3 times.(¡’ıúÿÿÿÿ8Š†˜Øƒ3
+o
+java:S11928"MDefine a constant instead of duplicating this literal "Content-Type" 3 times.(¡’ıúÿÿÿÿ8‹†˜Øƒ3
+P
+java:S1118":Add a private constructor to hide the implicit public one.(Œ­Õæ
+B
+java:S1172 ",Remove this unused method parameter "vertx".(ÚÁÎ
+Q	java:S125-"<This block of commented-out lines of code should be removed.(Ï ı
+c
+java:S1128"ARemove this unused import 'com.globalpayex.MyHttpServerVerticle'.(·”²úÿÿÿÿ8ş¢ŸØƒ3
+^
+java:S1128
+"ARemove this unused import 'io.vertx.ext.web.handler.BodyHandler'.(‚µ©Å8ÿ¢ŸØƒ3
+M
+java:S1128"+Remove this unused import 'java.util.List'.(Õë±Äøÿÿÿÿ8ÿ¢ŸØƒ3
+G
+java:S1068"*Remove this unused "logger" private field.(¿¬ä¯8Ö¼”Øƒ3

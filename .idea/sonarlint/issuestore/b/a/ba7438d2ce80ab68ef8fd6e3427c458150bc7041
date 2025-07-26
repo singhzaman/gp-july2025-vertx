@@ -1,0 +1,25 @@
+
+`	java:S112J"FDefine and throw a dedicated exception instead of using a generic one.(Ò‚Òéüÿÿÿÿ
+\
+java:S1075"ARefactor your code to get this URI from a customizable parameter.(Œ›Ğ‹øÿÿÿÿ
+X
+java:S1611"=Remove the parentheses around the "readAsyncResult" parameter(³ÌŠÃøÿÿÿÿ
+Y
+java:S1611$">Remove the parentheses around the "writeAsyncResult" parameter(™Ç¼óûÿÿÿÿ
+V	java:S1252"<This block of commented-out lines of code should be removed.(ÂŠ±³üÿÿÿÿ
+Q	java:S1258"<This block of commented-out lines of code should be removed.(½‘Ñ³
+V	java:S125A"<This block of commented-out lines of code should be removed.(¬™èÀùÿÿÿÿ
+t
+java:S2142I"^Either re-interrupt this method or rethrow the "InterruptedException" that can be caught here.(ä ¹€
+G
+java:S3457N"%String contains no format specifiers.(ÃñãÍşÿÿÿÿ8¤£Ğ°ƒ3
+G
+java:S1602Q",Remove useless curly braces around statement(ªíê¼üÿÿÿÿ
+X	java:S125["<This block of commented-out lines of code should be removed.(·ƒó™8”¤°ƒ3
+]	java:S125_"<This block of commented-out lines of code should be removed.(¤„×”ûÿÿÿÿ8•¤°ƒ3
+^
+java:S1128"<Remove this unused import 'io.vertx.core.DeploymentOptions'.(¥¬ˆèüÿÿÿÿ8µ£Ğ°ƒ3
+V
+java:S1128"9Remove this unused import 'io.vertx.core.ThreadingModel'.(óâØà8µ£Ğ°ƒ3
+V
+java:S1128":Remove this unused import 'io.vertx.core.json.JsonObject'.(ûöï8µ£Ğ°ƒ3

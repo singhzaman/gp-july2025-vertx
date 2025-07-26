@@ -1,0 +1,11 @@
+
+X
+java:S1611"=Remove the parentheses around the "readAsyncResult" parameter(³ÌŠÃøÿÿÿÿ
+\
+java:S10754"ARefactor your code to get this URI from a customizable parameter.(Œ›Ð‹øÿÿÿÿ
+n
+java:S16028"SRemove useless curly braces around statement and then remove useless return keyword(©‚ÆÖýÿÿÿÿ
+B
+java:S1602@",Remove useless curly braces around statement(ž÷è¼
+G
+java:S1602C",Remove useless curly braces around statement(‚­äŸÿÿÿÿÿ
